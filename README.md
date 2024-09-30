@@ -1,4 +1,4 @@
 # paulinz
 boas vindas ao meu perfil 
 meu nome é paulo 
-Estou
+Estou estudando na {alura}(https://www.alura.com.br)
